@@ -1,1 +1,1 @@
-# foxtale.github.io
+# foxtale-game.github.io
